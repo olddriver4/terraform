@@ -141,7 +141,7 @@ $ terraform plan
 $ terraform apply
 ```
 
-#####Azure
+##### Azure
 - Environment variable
 ```bash
 $ cat >/root/.bashrc< EOF
@@ -189,7 +189,7 @@ $ terraform plan
 $ terraform apply
 ```
 
-#####AliYun
+##### AliYun
 - Environment variable
 ```bash
 $ cat >/root/.bashrc< EOF
@@ -242,6 +242,6 @@ $ tree -d .
 $ terraform plan
 $ terraform apply
 ```
-##Write at the end
+## Write at the end
 
 - Thanks for watching 
