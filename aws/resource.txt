@@ -1,0 +1,6 @@
+ec2_instance
+eip
+ebs
+sg
+s3
+vpc
