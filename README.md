@@ -3,7 +3,7 @@ DownloadsURL：https://www.terraform.io/downloads.html
 website：https://registry.terraform.io/namespaces/hashicorp   
 Import Tool：https://github.com/GoogleCloudPlatform/terraformer   
 
-##### Environment variable
+#### Environment variable
 ```bash
 $ cat >/root/.bashrc< EOF
 #terraform
@@ -22,7 +22,7 @@ The foreign terraform source is used by default, and the domestic download is ve
 - **Path**：.terraform/plugins/registry.terraform.io/hashicorp/aws/3.37.0/linux_amd64/terraform-provider-aws_v3.37.0_x5
 - **Version**：3.37.0
 
-##### Initial configuration
+#### Initial configuration
 ```bash
 $ cat >init.tf< EOF
 terraform {
@@ -70,7 +70,7 @@ EOF
 
 ## Terraformer Import Use
 
-##### AWS 
+#### AWS 
 - Environment variable
 ```bash
 $ cat >/root/.bashrc< EOF
@@ -141,7 +141,7 @@ $ terraform plan
 $ terraform apply
 ```
 
-##### Azure
+#### Azure
 - Environment variable
 ```bash
 $ cat >/root/.bashrc< EOF
@@ -189,7 +189,7 @@ $ terraform plan
 $ terraform apply
 ```
 
-##### AliYun
+#### AliYun
 - Environment variable
 ```bash
 $ cat >/root/.bashrc< EOF
