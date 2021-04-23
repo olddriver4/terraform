@@ -1,0 +1,4 @@
+cn-beijing
+cn-zhangjiakou
+cn-hangzhou
+cn-hongkong
