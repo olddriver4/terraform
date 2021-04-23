@@ -1,0 +1,4 @@
+ecs
+sg
+vpc
+keypair
