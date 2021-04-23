@@ -1,7 +1,9 @@
 ## Downloads
-> DownloadsURL：https://www.terraform.io/downloads.html
-> website：https://registry.terraform.io/namespaces/hashicorp
-> Import Tool：https://github.com/GoogleCloudPlatform/terraformer
+>DownloadsURL：https://www.terraform.io/downloads.html
+>
+website：https://registry.terraform.io/namespaces/hashicorp
+
+Import Tool：https://github.com/GoogleCloudPlatform/terraformer
 
 ##### Environment variable
 ```bash
