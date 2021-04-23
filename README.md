@@ -237,7 +237,7 @@ keypair
 ```
 $ tree -d .
 ```
-![](https://raw.githubusercontent.com/olddriver4/terraform-blog/main/images/aliyun-terraform-import.png)
+![](https://raw.githubusercontent.com/olddriver4/terraform-blog/main/images/aws-terraform-import.png)
 ```
 $ terraform plan
 $ terraform apply
