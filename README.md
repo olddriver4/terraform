@@ -67,11 +67,8 @@ EOF
 
 **PS：You can put them together and associate them with soft connections**
 
-------------
-
 
 ##Terraformer Import Use
-
 #####AWS 
 - Environment variable
 ```bash
