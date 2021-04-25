@@ -244,4 +244,21 @@ $ terraform apply
 ```
 ## Write at the end
 
-- Thanks for watching 
+terraform init: initialize loading module
+terraform validate: verify that the template syntax is correct
+terraform plan: preview of resources
+terraform apply: creation and change of resources
+terraform show: display of resources
+terraform destroy: release of resources (-target=<resource type>.<resource name> --force parameter skip)
+terraform import: import of resources
+terraform taint <resource type>.<resource name>: mark the resource as tainted
+terraform untaint <resource type>.<resource name>: Unmark tainted
+terraform output: print out the parameters and their values
+terraform state list: List all resources in the current state <resource type>.<resource name>
+terraformstate show <resource type>.<resource name>: show the attributes of a certain resource
+terraform state pull: get the current state content and display
+terraformstate rm <resource type>.<resource name>: remove a specific resource
+terraform state mv --state=./terraform.tfstate --state-out=<target path>/terraform-target.tfstate <resource type>.<resource: source name A> <resource type>.<resource name B> : Change the storage address of a specific resource
+terraform refresh: refresh the current state
+terraform graph: output the resource relationship graph defined by the current template
+terraform graph | dot -Tsvg> graph.svg directly exported as a picture (graphviz needs to be installed in advance)
