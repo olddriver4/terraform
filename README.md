@@ -208,9 +208,10 @@ $ terraform init
 ```bash
 $ cat >region.txt< EOF
 cn-beijing
-cn-zhangjiakou
-cn-hangzhou
 cn-hongkong
+cn-shanghai
+cn-zhangjiakou
+us-west-1
 ```
 ```bash
 $ cat >resource.txt< EOF
