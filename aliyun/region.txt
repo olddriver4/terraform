@@ -1,4 +1,5 @@
 cn-beijing
-cn-zhangjiakou
-cn-hangzhou
 cn-hongkong
+cn-shanghai
+cn-zhangjiakou
+us-west-1
